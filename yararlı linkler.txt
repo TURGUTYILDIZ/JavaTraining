@@ -1,0 +1,8 @@
+Java8 - Class
+https://docs.oracle.com/javase/specs/jls/se8/html/jls-8.html#jls-8.1.1.2
+
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+
+Boolean:
+https://standards.ieee.org/standard/754-2008.html
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
